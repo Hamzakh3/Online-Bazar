@@ -1,0 +1,44 @@
+.body {
+    margin: 0px !important;
+}
+
+.navb-color {
+    background-color: rgb(0, 105, 197) !important;
+    color: whitesmoke !important;
+}
+
+.collectionImages {
+    height: auto !important;
+}
+
+.Rupees {
+    font-weight: bold;
+    background-color: rgb(1, 65, 121);
+    padding: 8px;
+    display: inline-block;
+    border-radius: 5px;
+    color: whitesmoke;
+}
+
+.footer {
+    background-color: rgb(0, 105, 197);
+    color: white;
+    text-align: center;
+    margin-bottom: 0px !important;
+}
+
+.footer h4 {
+    font-size: 18px !important;
+    padding: 8px;
+}
+
+.card-img-top {
+    height: 300px;
+}
+
+.Heading1 {
+    color: grey !important;
+    font-family: Georgia, 'Times New Roman', Times, serif !important;
+    font-size: 28px;
+    padding-top: 20px;
+}
